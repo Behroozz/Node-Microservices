@@ -1,4 +1,4 @@
-# Node Microservice
+# Node Microservices
 This is a code to manage comments, the intergration with Express and Mongo DB is no implemented yet, to keep the pattern simple to understand, with this pattern change in Technology such as changing database,... should have minimum impact on the code.
 
 ![Alt text](/img/CleanArchitecture.jpg "CleanArchitecture")
